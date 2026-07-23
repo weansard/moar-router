@@ -38,12 +38,21 @@ export const metadata: Metadata = {
     title: "MOAR Router — Cross-Model Context Orchestration",
     description:
       "Cross-model context orchestration for AI. Share tokens, embeddings, and reasoning across models in real time. Welcome to MOAR.",
+    images: [
+      {
+        url: "/opengraph-image",
+        width: 1200,
+        height: 630,
+        alt: "MOAR Router — Cross-Model Context Orchestration",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "MOAR Router — Cross-Model Context Orchestration",
     description:
       "Cross-model context orchestration for AI. Share tokens, embeddings, and reasoning across models in real time. Welcome to MOAR.",
+    images: ["/twitter-image"],
   },
   robots: {
     index: true,
